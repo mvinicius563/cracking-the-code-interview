@@ -37,6 +37,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Ch16LowLevel\BigVsLittleEndian.cs" />
+    <Compile Include="Ch9SortingAndSearching\SortingAndSearching.cs" />
     <Compile Include="Program.cs" />
   </ItemGroup>
   <ItemGroup>
